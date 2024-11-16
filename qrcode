@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Découvrez ce qu'est un QR code, son fonctionnement et ses utilisations.">
+    <title>Qu'est-ce qu'un QR code ?</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Qu'est-ce qu'un QR code ?</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>Un QR code (Quick Response code) est un type de code-barres en deux dimensions qui peut être scanné par un smartphone ou un lecteur de QR codes. Il permet de stocker des informations comme des liens, des textes ou des données.</p>
+        </section>
+        <section>
+            <h2>Comment ça fonctionne ?</h2>
+            <p>Un QR code est constitué de motifs noirs et blancs. Ces motifs encodent des informations qui peuvent être décodées rapidement par un appareil équipé d'une caméra et d'un logiciel de lecture.</p>
+        </section>
+        <section>
+            <h2>Utilisations courantes</h2>
+            <ul>
+                <li>Partager des liens vers des sites web</li>
+                <li>Stocker des informations de contact</li>
+                <li>Faciliter les paiements mobiles</li>
+                <li>Accéder à des menus ou des documents</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Exemple d'un QR code</h2>
+            <img src="qrcode.png" alt="Exemple de QR code">
+            <p>Scannez ce QR code pour découvrir un exemple pratique.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Découverte du QR Code. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
